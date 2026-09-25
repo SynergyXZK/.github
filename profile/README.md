@@ -1,5 +1,3 @@
-# .github
-
 # SynergyXZK
 
 ### Where intelligence meets trust.
