@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/SynergyXZK/.github/raw/refs/heads/main/synergy-brand-final.png" width="100%" alt="SynergyXZK — Inteligência, Privacidade e Convergência"></p>
+<p align="center"><img src="https://github.com/SynergyXZK/.github/raw/refs/heads/main/synergyxzk-brand-hq.png" width="100%" alt="SynergyXZK — Inteligência, Privacidade e Convergência"></p>
 
 <p align="center"><strong>Where intelligence meets trust.</strong><br>AI · Blockchain · Zero-Knowledge · Privacy-First Systems</p>
 
