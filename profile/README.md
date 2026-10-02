@@ -1,8 +1,8 @@
-<p align="center"><img src="https://github.com/SynergyXZK/.github/raw/refs/heads/main/synergyxzk-brand.png" width="100%" alt="SynergyXZK — Inteligência, Privacidade e Convergência"></p>
+<p align="center"><img src="https://github.com/SynergyXZK/.github/raw/refs/heads/main/synergyxzk-brand-hq.png" width="100%" alt="SynergyXZK — Inteligência, Privacidade e Convergência"></p>
 
 <p align="center"><strong>Where intelligence meets trust.</strong><br>AI · Blockchain · Zero-Knowledge · Privacy-First Systems</p>
 
-<p align="center"><img src="https://github.com/SynergyXZK/.github/raw/refs/heads/main/synergy-trust.gif" width="100%" alt="Engenharia da confiança humana — Inteligência, Soberania e Impacto Real"></p>
+<p align="center"><img src="https://github.com/SynergyXZK/.github/raw/refs/heads/main/trust-motion-hq.gif" width="100%" alt="Engenharia da confiança humana — Inteligência, Soberania e Impacto Real"></p>
 
 <p align="center"><a href="https://github.com/a-valen3"><strong>Founder & CEO · Andreza Valen ↗</strong></a> &nbsp;·&nbsp; <a href="https://trainyx.xyz/"><strong>Conheça o TrainyX ↗</strong></a></p>
 
