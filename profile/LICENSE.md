@@ -1,17 +1,17 @@
 # Licença Proprietária e Aviso de Direitos Reservados
-## SynergyXZK — Titularidade exclusiva de Andreza Valen
+## SynergyXZK — Titularidade exclusiva de Andrez Valen
 
 **Repositório abrangido:** `SynergyXZK/.github`  
-**Titular exclusiva:** Andreza Valen  
+**Titular exclusiva:** Andrez Valen  
 **Identificação institucional:** SynergyXZK  
 **Versão:** 1.0  
 **Data:** 1º de outubro de 2026  
-**Copyright:** © 2025–2026 Andreza Valen. Todos os direitos reservados.  
+**Copyright:** © 2025–2026 Andrez Valen. Todos os direitos reservados.  
 **Contato para licenciamento:** a.valen@synergyxzk.xyz
 
 ## 1. Objeto e âmbito de aplicação
 
-Este documento estabelece as condições de disponibilização e a reserva de direitos sobre o conteúdo original de titularidade de Andreza Valen publicado no repositório `SynergyXZK/.github`, doravante denominado **“Conteúdo”**.
+Este documento estabelece as condições de disponibilização e a reserva de direitos sobre o conteúdo original de titularidade de Andrez Valen publicado no repositório `SynergyXZK/.github`, doravante denominado **“Conteúdo”**.
 
 O Conteúdo abrange textos, documentação institucional e técnica, imagens, ilustrações, desenhos, elementos de identidade visual, arquivos de configuração, código e demais materiais protegidos pela legislação aplicável.
 
@@ -21,7 +21,7 @@ Sua aplicação não se estende automaticamente a outros repositórios, produtos
 
 ## 2. Titularidade exclusiva
 
-**Andreza Valen é a titular exclusiva dos direitos autorais sobre o Conteúdo original abrangido por este documento**, incluindo os direitos patrimoniais de utilização, reprodução, adaptação, distribuição e exploração econômica, preservados seus direitos morais nos termos da legislação aplicável.
+**Andrez Valen é a titular exclusiva dos direitos autorais sobre o Conteúdo original abrangido por este documento**, incluindo os direitos patrimoniais de utilização, reprodução, adaptação, distribuição e exploração econômica, preservados seus direitos morais nos termos da legislação aplicável.
 
 A utilização dos nomes SynergyXZK e TrainyX como identificação institucional, comercial ou de produto não altera essa titularidade nem constitui cessão de direitos a qualquer pessoa física ou jurídica.
 
@@ -31,7 +31,7 @@ Nenhuma disposição deste documento constitui cessão de propriedade intelectua
 
 ## 3. Reserva de direitos
 
-Todos os direitos não expressamente concedidos permanecem reservados a Andreza Valen.
+Todos os direitos não expressamente concedidos permanecem reservados a Andrez Valen.
 
 Este documento não concede licença adicional, expressa ou implícita, para reprodução, modificação, distribuição, sublicenciamento ou exploração do Conteúdo.
 
@@ -51,7 +51,7 @@ Essas permissões não transferem a titularidade do Conteúdo nem concedem, por 
 
 ## 5. Usos sujeitos a autorização expressa
 
-Ressalvadas as hipóteses da seção 4 e as licenças específicas aplicáveis, dependem de autorização prévia, expressa e por escrito de Andreza Valen:
+Ressalvadas as hipóteses da seção 4 e as licenças específicas aplicáveis, dependem de autorização prévia, expressa e por escrito de Andrez Valen:
 
 1. Reproduzir, republicar ou redistribuir o Conteúdo, integral ou parcialmente.
 2. Traduzir, adaptar, modificar ou criar obras derivadas do Conteúdo.
@@ -78,11 +78,11 @@ Esta reserva não afasta permissões decorrentes dos Termos de Serviço do GitHu
 
 ## 7. Marcas, identidade visual e representação institucional
 
-Este documento não concede licença de uso dos nomes, logotipos ou sinais distintivos SynergyXZK e TrainyX, nem de outros sinais relacionados ao ecossistema sobre os quais Andreza Valen detenha direitos.
+Este documento não concede licença de uso dos nomes, logotipos ou sinais distintivos SynergyXZK e TrainyX, nem de outros sinais relacionados ao ecossistema sobre os quais Andrez Valen detenha direitos.
 
 Quando exigida pela legislação, sua utilização depende de autorização específica, distinta de eventual autorização para outros materiais.
 
-Não é concedida autorização para apresentar produtos, serviços, perfis ou organizações de terceiros como oficiais, afiliados, certificados ou endossados por Andreza Valen, SynergyXZK ou TrainyX.
+Não é concedida autorização para apresentar produtos, serviços, perfis ou organizações de terceiros como oficiais, afiliados, certificados ou endossados por Andrez Valen, SynergyXZK ou TrainyX.
 
 Permanecem preservadas as referências legítimas admitidas pela legislação que não induzam confusão quanto à origem, ao vínculo ou ao endosso.
 
@@ -98,9 +98,9 @@ O cumprimento das obrigações de atribuição e preservação dos avisos não a
 
 Eventuais materiais de terceiros expressamente identificados ficam excluídos da declaração de titularidade exclusiva e permanecem sujeitos aos direitos e às condições de seus respectivos titulares.
 
-A presença desses materiais no repositório não implica que Andreza Valen possa conceder direitos além daqueles que efetivamente detenha.
+A presença desses materiais no repositório não implica que Andrez Valen possa conceder direitos além daqueles que efetivamente detenha.
 
-A submissão ou incorporação de uma contribuição de terceiro não constitui, por si só, cessão de sua titularidade a Andreza Valen. Eventuais cessões ou autorizações específicas deverão observar instrumento próprio e a legislação aplicável.
+A submissão ou incorporação de uma contribuição de terceiro não constitui, por si só, cessão de sua titularidade a Andrez Valen. Eventuais cessões ou autorizações específicas deverão observar instrumento próprio e a legislação aplicável.
 
 Nenhuma contribuição autoriza seu remetente a utilizar outros materiais do repositório além das permissões aplicáveis.
 
@@ -116,7 +116,7 @@ Solicitações deverão ser encaminhadas a **a.valen@synergyxzk.xyz**, contendo:
 - Existência de finalidade comercial, redistribuição ou acesso por terceiros.
 - Eventual utilização em inteligência artificial ou processamento automatizado.
 
-A autorização somente será concedida por Andreza Valen ou por representante com poderes expressos para essa finalidade.
+A autorização somente será concedida por Andrez Valen ou por representante com poderes expressos para essa finalidade.
 
 Cada autorização ficará limitada às condições aprovadas. Exclusividade, sublicenciamento, transferência, extensão a outros materiais e novas modalidades de uso dependerão de previsão expressa.
 
@@ -134,7 +134,7 @@ Compromissos específicos dependerão de instrumento próprio.
 
 ## 12. Limitação de responsabilidade
 
-Na máxima extensão permitida pela legislação aplicável, Andreza Valen não responderá por perdas ou danos decorrentes do uso do Conteúdo, incluindo perda de dados, interrupção de atividades ou lucros cessantes.
+Na máxima extensão permitida pela legislação aplicável, Andrez Valen não responderá por perdas ou danos decorrentes do uso do Conteúdo, incluindo perda de dados, interrupção de atividades ou lucros cessantes.
 
 Esta disposição não exclui nem limita responsabilidades que não possam ser legalmente afastadas.
 
@@ -166,8 +166,8 @@ Nenhuma atualização transfere a titularidade do Conteúdo ou revoga retroativa
 
 ---
 
-**Titular exclusiva do Conteúdo original:** Andreza Valen  
+**Titular exclusiva do Conteúdo original:** Andrez Valen  
 **Identificação institucional:** SynergyXZK  
 **Licenciamento e autorizações:** a.valen@synergyxzk.xyz  
 
-**© 2025–2026 Andreza Valen. Todos os direitos reservados.**
+**© 2025–2026 Andrez Valen. Todos os direitos reservados.**

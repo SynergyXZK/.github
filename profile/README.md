@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://github.com/SynergyXZK/.github/raw/refs/heads/main/trust-motion-hq.gif" width="100%" alt="Engenharia da confiança humana — Inteligência, Soberania e Impacto Real"></p>
 
-<p align="center"><a href="https://github.com/a-valen3"><strong>Founder & CEO · Andreza Valen ↗</strong></a> &nbsp;·&nbsp; <a href="https://trainyx.xyz/"><strong>Conheça o TrainyX ↗</strong></a></p>
+<p align="center"><a href="https://github.com/a-valen3"><strong>Founder & CEO · Andrez Valen ↗</strong></a> &nbsp;·&nbsp; <a href="https://trainyx.xyz/"><strong>Conheça o TrainyX ↗</strong></a></p>
 
 <p align="center"><a href="#visao">Visão</a> · <a href="#ecossistema">Ecossistema</a> · <a href="#arquitetura">Arquitetura</a> · <a href="#governanca">Governança</a> · <a href="#conexoes">Conexões</a></p>
 
@@ -13,7 +13,7 @@
 <a name="visao"></a>
 <p><img src="https://github.com/SynergyXZK/.github/raw/refs/heads/main/synergy-visao.svg" width="100%" alt="Visão e propósito"></p>
 
-A **SynergyXZK** é um ecossistema de tecnologia fundado por **Andreza Valen** para transformar desafios reais em sistemas úteis, seguros e acessíveis. Conectamos inteligência artificial, blockchain e Zero-Knowledge a necessidades em **performance humana, saúde, fitness, mobilidade e confiança digital**.
+A **SynergyXZK** é um ecossistema de tecnologia fundado por **Andrez Valen** para transformar desafios reais em sistemas úteis, seguros e acessíveis. Conectamos inteligência artificial, blockchain e Zero-Knowledge a necessidades em **performance humana, saúde, fitness, mobilidade e confiança digital**.
 
 > Tecnologia com propósito. Arquitetura com responsabilidade. Impacto que se percebe no mundo real.
 
@@ -75,7 +75,7 @@ Partimos de problemas concretos, testamos hipóteses e refinamos escolhas a part
 <a name="governanca"></a>
 <p><img src="https://github.com/SynergyXZK/.github/raw/refs/heads/main/synergy-governance.svg" width="100%" alt="Governança"></p>
 
-**Fundação e direção:** [Andreza Valen](https://github.com/a-valen3), Founder & CEO.
+**Fundação e direção:** [Andrez Valen](https://github.com/a-valen3), Founder & CEO.
 
 A SynergyXZK desenvolve pesquisa, arquitetura, metodologias, marcas e software próprios. A publicação deste perfil e de repositórios públicos não concede, por si só, autorização de uso de código, nomes, elementos visuais ou materiais proprietários. As condições de uso de cada repositório são definidas por sua licença e documentação específicas; projetos sem licença explícita devem ser tratados como reservados.
 
